@@ -1,0 +1,28 @@
+{
+  "os":  "Linux-6.12.62-1-MANJARO-x86_64-with-glibc2.42",
+  "python":  "CPython 3.13.11",
+  "startedAt":  "2025-12-18T20:59:20.080669Z",
+  "program":  "/home/smrutibiswal/Projects/edgeFleetAI/test.ipynb",
+  "codePath":  "/home/smrutibiswal/Projects/edgeFleetAI/test.ipynb",
+  "codePathLocal":  "test.ipynb",
+  "git":  {
+    "remote":  "git@github.com:SBiswal02/ballTracking.git",
+    "commit":  "6aefbf68ecf4a7a0d85a35f5cec8dab82143e99a"
+  },
+  "email":  "smruti.biswal0201@gmail.com",
+  "root":  "/home/smrutibiswal/Projects/edgeFleetAI",
+  "host":  "Padfoot",
+  "executable":  "/home/smrutibiswal/Projects/edgeFleetAI/venv/bin/python",
+  "cpu_count":  12,
+  "cpu_count_logical":  16,
+  "disk":  {
+    "/":  {
+      "total":  "205287342080",
+      "used":  "124329279488"
+    }
+  },
+  "memory":  {
+    "total":  "16370376704"
+  },
+  "writerId":  "27mpuun6otwlxdcsjbsrtnoo1g0mx806"
+}

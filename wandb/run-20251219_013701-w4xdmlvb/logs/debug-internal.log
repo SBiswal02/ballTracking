@@ -1,0 +1,26 @@
+{"time":"2025-12-19T01:37:01.613521236+05:30","level":"INFO","msg":"stream: starting","core version":"0.23.1"}
+{"time":"2025-12-19T01:37:02.097405189+05:30","level":"INFO","msg":"stream: created new stream","id":"w4xdmlvb"}
+{"time":"2025-12-19T01:37:02.097527821+05:30","level":"INFO","msg":"handler: started","stream_id":"w4xdmlvb"}
+{"time":"2025-12-19T01:37:02.098042682+05:30","level":"INFO","msg":"stream: started","id":"w4xdmlvb"}
+{"time":"2025-12-19T01:37:02.09882175+05:30","level":"INFO","msg":"sender: started","stream_id":"w4xdmlvb"}
+{"time":"2025-12-19T01:37:02.099014829+05:30","level":"INFO","msg":"writer: started","stream_id":"w4xdmlvb"}
+{"time":"2025-12-19T01:50:26.51510624+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.518588735+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.520457333+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.522791306+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.527701139+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.530298964+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.556956192+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.579487135+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.603178122+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.625765869+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.674276614+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.718501316+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:26.718776198+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:27.328431059+05:30","level":"WARN","msg":"handler: ignoring partial history record","step":10,"current":11}
+{"time":"2025-12-19T01:50:36.166375105+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-12-19T01:50:36.547699289+05:30","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-12-19T01:50:36.558008069+05:30","level":"INFO","msg":"stream: closing","id":"w4xdmlvb"}
+{"time":"2025-12-19T01:50:36.558252919+05:30","level":"INFO","msg":"handler: closed","stream_id":"w4xdmlvb"}
+{"time":"2025-12-19T01:50:36.558304053+05:30","level":"INFO","msg":"sender: closed","stream_id":"w4xdmlvb"}
+{"time":"2025-12-19T01:50:36.558324896+05:30","level":"INFO","msg":"stream: closed","id":"w4xdmlvb"}
